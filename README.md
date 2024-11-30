@@ -1,6 +1,6 @@
 # Income_Prediction
 
-"Explore my comprehensive project on **Bank Loan Repayment and Income Prediction** through this video presentation. The video demonstrates the implementation of advanced machine learning techniques in the financial domain, showcasing an intuitive user interface built with Streamlit. It highlights key features like interactive inputs for financial parameters, real-time predictions, and a user-friendly design tailored for actionable insights. Just click the below drive link!!"
+"Explore my comprehensive project on **Bank Loan Repayment and Income Prediction**, developed by me and my teammate Kunal.This video presentation showcases the seamless integration of machine learning models with an intuitive Streamlit-based user interface. It highlights key features like interactive inputs for financial parameters, real-time predictions, and a user-friendly design tailored for actionable insights. Just click the below drive link!!"
 
 =====>  https://drive.google.com/file/d/17PxA4B7OlZhEKCqZPexgYmjo_5DRCDMv/view?usp=drive_link
 
