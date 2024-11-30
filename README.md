@@ -7,9 +7,6 @@ https://drive.google.com/file/d/17PxA4B7OlZhEKCqZPexgYmjo_5DRCDMv/view?usp=drive
 ![Screenshot 2024-11-30 232432](https://github.com/user-attachments/assets/ff265083-74c1-4642-9f9d-92bc9b2a8520)
 ![Screenshot 2024-11-30 232541](https://github.com/user-attachments/assets/783a189d-6c25-4e7d-a9d1-5c8020466fc0)
 
-Here’s a detailed breakdown of your **Income Prediction for Financial Analysis** project that you can use to explain it to your interviewer, covering each concept in-depth:
-
----
 
 ### **Introduction to the Project**
 The project involved developing a **Streamlit-based web application** to enable **real-time financial decision-making**. The app includes three main modules:
