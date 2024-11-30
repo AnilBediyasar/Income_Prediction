@@ -66,7 +66,7 @@ The application leverages machine learning models and advanced interactivity to 
 4. **Interactive Features:** Users can refine their queries, switch modules, or seek additional information via the Wikipedia feature.  
 5. **Feedback Loop:** Users receive output in both text and audio forms, enhancing accessibility.
 
-### **Results Display **
+### Results Display 
  The app displays results dynamically based on the entered inputs. For instance:
 - **Income Prediction**: "Your Income is Greater than $50k".
 - **Loan Repayment Prediction**: Likelihood of repayment (e.g., Approved/Rejected or a probability score).   
